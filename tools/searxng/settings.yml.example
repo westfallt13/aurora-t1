@@ -1,0 +1,19 @@
+use_default_settings: true
+
+general:
+  instance_name: "aurora-t1-search"
+
+server:
+  # Generate a real one: openssl rand -hex 32
+  # Copy this file to settings.yml with the real value substituted in --
+  # settings.yml itself is gitignored so the real secret never gets committed.
+  secret_key: "REPLACE_WITH_OUTPUT_OF_openssl_rand_-hex_32"
+  # Public instances need this for bot/abuse protection; a private,
+  # single-consumer instance behind your own network doesn't.
+  limiter: false
+  image_proxy: true
+
+search:
+  formats:
+    - html
+    - json

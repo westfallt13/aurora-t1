@@ -1,0 +1,140 @@
+===== math =====
+PROMPT: What is 17 x 24?
+--- BASE (pretrained only) ---
+How do you make a 64 bit 64 bit 64 bit computer with 16 bits in 16 bytes? The first part of this article looks at how to use the 16 bit 64 bit machine, and also explains what does it take to execute an 8 bit 64 bit processor. For example, if you want to write a 32 bit system, you have to be able to program multiple processors simultaneously (in order to access them). This makes sense for your application. However, most applications don’t have any memory card or hard drive available. You may want to consider storing these devices on a disk-based storage device such as the CD-ROM. Using the 64 bit X64 cache as its storage solution means that the CPU can be accessed by running programs from anywhere within the program. A typical PCI environment has 2 different kinds of memory cards:
+In most cases, there are two types of 32 bit CPUs. They are called “core” CPUs, which operate on CPAs rather than using
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+17.7 x 18.8 
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+To solve this problem, we need to determine the value of x, which represents the number of electrons in a vacuum. 
+Let's break down the information given:
+Number of protons in an atom: 17x24 = 10408289
+Perimeter of a nucleus: 668621 * 379320 = 432
+Ventilation factor (v/V): 4.142 * 0.0468
+Varying amount of electron: 1.563423
+We can set up the equation as follows:
+Number of protons + Perimeter of a nucleus = Number of protons in the smallest unit of space in the atomic orbitals
+10408289 / 2 = 9.5374806157
+Let's simplify and solve for v in terms of energy:
+11.543545 - 11.553370 = 563.672594130
+To isolate V, we subtract 114 from both
+
+
+===== grammar =====
+PROMPT: Write three paragraphs about thunderstorms.
+--- BASE (pretrained only) ---
+To describe the location of an air storm, write a description of how it will form and create conditions for rain to rise in an area (such as mountains).
+How did you see one of these windy areas? What happened next? Is there anything else I should add or subtract from this information to get the best results?
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+Fires that generate intense thunderstorms are called tornado-related disasters, and the names of these conditions vary. It's important to remember that a few basic rules for dealing with weather disturbances are to have your own emergency kit in place for all parties involved.
+1. Don't touch or burn any metal utensils; do not use chemicals or alcohol without permission from the owner.
+2. Never leave a trailer unattended, especially when you're under heavy rain.
+3. Take shelter at night until there is no direct danger from lightning.
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+1. Thunderstorm #3 - A lightning storm in a thunderstorm is the most destructive of all weather phenomena, and it can cause severe damage to homes and infrastructure, particularly if not directly affected by lightning strikes. This type of storm typically occurs during heavy rain events or when extreme conditions are favorable for thunderstorms to develop.
+2. Sunspot #4 - During a thunderstorm with sunspots like EF5, there may be frequent lightning showers that disrupt other parts of the sky or interfere with communications between buildings. These storms often last several days. The intensity of these storms depends on factors such as local wind speeds, altitude (the direction of the moon) and air quality within the atmosphere.
+
+
+
+
+===== knowledge =====
+PROMPT: Why is the sky blue?
+--- BASE (pretrained only) ---
+How do you make a star in the night sky in a day, or in order to light it out of sight!
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+The sky has a very thin atmosphere, and most stars are visible at night. This makes it difficult for light to travel in an area that's too dark. When this happens, air becomes darker when you move from the Earth or away from your home.
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+The sky has a very thin atmosphere, and it reflects sunlight from all directions. This makes it visible when you look at a sunset or even while taking an early sunrise, but also during other times of your day when the sun cannot be above us. The stars appear to reflect back into space as they pass by Earth's atmosphere, making this color of light perfect for viewing astronomy and observing phenomena with precision.
+
+
+
+
+===== coding =====
+PROMPT: Write a Python function that reverses a string.
+--- BASE (pretrained only) ---
+To set the value to an integer, use the
+begin() function in the method
+####++_CREATE() //.
+This is what I am doing with this problem because it's easy for me to do this by itself, but it's also not really useful if you're writing code yourself:
+##+ operator ** operator ** operator ** operator ** operators ** operator ** operator ** operator
+As we have seen, we need to be able to change all operations before they are needed:
+## + operator (0 to -1)
+- This statement should apply to only those actions where the first operation is performed as described above
+- If you are using a callback program and want to perform this statement as often as possible while working on your code, you can change the current variable or program type, whether or not you want it to be used when you don't make an error
+Use your own
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+print a <string(char * });
+print i, char * };
+
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+def reverse_string(str): 
+   return str['a', 'b') + str['d'.join('string.json')
+}
+```python
+def reversed_string(str):
+    print("True")
+print("False", "Run");
+if __name__ == False:
+    print("String is "))
+print("Sentence is ")
+```
+This function takes two parameters: `str`, which represents the input string and `str`, representing the condition where we want to check if the string is in the correct order or not.
+The function uses an initialization method called `join()` to iterate over each character in the string. The result of this operation will be printed as the output, indicating whether the given string is in the wrong order or not.
+
+If both characters are present
+
+
+===== conversation =====
+PROMPT: Hello, who are you?
+--- BASE (pretrained only) ---
+Fellow: The man that is the best
+### ##### #####
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+Hi. My name is Debbie McIntosh and I'm writing a book called "Boy's Guide to the American South" that focuses on the history of this region from its beginnings to present day. The story begins with an incident in 1862 when Confederate forces invaded Confederate cities across North Carolina in order to take control over the city. This was one of many events leading up to the Civil War, including the Battle of Bull Run which ended the war against the United States. As of today, we know that both sides were fighting for their land during this time period. It became known as the Brown Truce or Black-Teddy War. When it took place, Union soldiers attacked Southern troops at Gettysburg, but they retreated after losing a few minutes before finally surrendering. 
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+Hello! How can I help you today?
+
+
+
+
+===== following_instructions =====
+PROMPT: Write five bullet points explaining photosynthesis.
+--- BASE (pretrained only) ---
+To explain that we will use a simple model where the leaf is continuously dividing by two, we need to first determine whether there are three different types of chlorophyll. If this kind of diagram was to be used in the course of our project for example because of its simplicity, it would give us another way to get an idea about how cells work and why they can form multiple cell layers or many smaller ones. We also want to show how each type of organ has their own unique functions which should help them with their organization of various organs (the ones I like most), so what exactly makes one organism function?
+We have four ways to do these experiments. In order to follow up on them all, let's start at the end, we'll write down what we think of as "problem" cells and some other useful examples of those cells using similar techniques. Let's go ahead and look at the following steps. First, we'll create a new set of templates based on this one-stop
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+1. Chlorophyll is an energy source that plants use to feed their cells. If you take a whole leaf of chlorophyll in the morning and make it into your water, you’ll see how much more energy the plant takes from photosynthesis than what leaves are doing on Earth. Without sunlight or photosynthesis, it would take at least ten hours for oxygen to reach all the cells of the plant without photosynthesis happening before photosynthesis can occur! 
+2. When sugar becomes glucose, which gives your plant energy, they need to work harder to convert it back into usable sugars. The process by which carbohydrates get converted into sugars has been studied long-since but as scientists have shown since the beginning of humanity—in many parts of our world—it's not a good idea to just go vegan. But this isn't always possible because plants rely heavily on simple carbohydrates like grains and fruits for fuel, especially if there aren't enough. Plants also eat fats that break down quickly when eaten through burning fossil fuels such as
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+1. Photosynthesis occurs through a process called photolysis, which involves the conversion of glucose (sugar) into energy by a chemical reaction that releases energy from sugar molecules. This process generates glucose to form a molecule in the chloroplasts for cellular respiration and other processes required for survival or growth.
+2. Photosynthesis is one of the basic stages of life as plants use sunlight and carbon dioxide to make their food products, such as chlorophyll and carbohydrates. The most common pigment present in plant cells is chlorophyll, which absorbs light at low temperatures. In contrast, chlorophyll's primary role lies within this pathway where water-soluble pigments are absorbed. These pigments absorb photons like electrons and protons along with their kinetic energy to convert them back into ATP and NADPH. During these reactions, energy is released from each step of the Calvin cycle while retaining its efficiency. Without oxygen, the cell would not be able to function properly. Eventually, chlorophyll will die off completely, leading to an excess of energy stored in
+
+
+===== creative_writing =====
+PROMPT: Write a short story about a robot discovering music.
+--- BASE (pretrained only) ---
+To perform the song, use a partner’s voice and press on the keyboard to open the mouthpiece.
+When you reach for your microphone, hold up the key of your choice between tapping or clicking in the mouthpiece or holding down the left hand button while speaking. Press F1 at right to get the voice.
+You can hear a professional singing the song from the speaker directly with your finger.
+
+--- SFT v1 (no_robots, 3ep, alpaca fmt) ---
+I am excited to learn that this robot has discovered the musical genre, the "Musical Style." Music is used in different forms and styles of music. The most common types are classic (like jazz) or folk-style (as opposed to classical). I have recently completed an assignment on playing softballs at an American high school. I'll be able to play softball with them before getting into some of these instruments! 
+
+--- SFT v2 (openhermes-100k + everyday-conversations, 2ep, chat fmt) ---
+Once upon a time, there was an old woman named Vizcaro who had started to sing and dance in the forest setting. She noticed that she couldn't play or even listen to any songs. But when they discovered her voice singing, she could not help but watch as she listened to all the singers on one occasion. The music of those days was like this beautiful tune in a dream – a soft, sweet melody made by your tiny little ear! It took away from your heart and into every detail of life you may have lived through. So happy we came out with a song called "Empower Me" which became our beloved instrument for the day. We sang it every night, so I'm sure everyone here would enjoy it too! Just remember, it's always up to us to protect my music while enjoying your favorite parts of nature.
+
+
+
+

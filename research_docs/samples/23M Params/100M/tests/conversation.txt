@@ -1,0 +1,33 @@
+Conversation
+Hello, who are you?
+
+This becomes useful later after instruction tuning.
+
+
+
+
+
+
+
+
+<=0.01/000000-000000||0.001|>l>l>l>l>l>l>l>l>L |>l>l>l>l>l>p>l>l>l>l>l>l>l>l>l>l>l>z=l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>z>l>l>l>l>l>l>l>in>t>l>l>l>l>l>l>w>l>l>l>l>l>l>le_w>l>l>l>l>l>l>l>l>l>l>l>l>l>l>n>l>l>.l>l>l>l>l>l>l>l>l>l>l>l>f>l>sl>l>l>l>te>in>l>l>l>l>l>l>l>l>l>t>l>l>l>l>l>l>l>l>l>l>l>l>l>er>l>l>l>l>l>in>l>l>l>l>l>l>l>t>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>.l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>er>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>h>l>w>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>h>l>l>l>in>l>l>l>l>l>l>l>r>le>l>l>l>l>l>l>l>l>l>l>z>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>in>l>l>l>l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>er>l>l>l>l>l>l>l>l>l>l>l>l>l>l>o>l>l>l>er>l>l>l>l>l>l>l>l>l>l>l>.l>l>l>l>l>l>in>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>t>l>l>l>l>l>n>l>l>l>l>r>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>le>l>l>s>l>l>l>l>l>l>l>l>l>z
+l>l>l>l>l>l>l>l>l>l>l>l>l>tl>l>l>l>l>l>p>l>l>l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>le>l>l>l>l>sr>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>er>l>l>l>l>l>l>l>l>l>l.l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l
+l>l>l>l>l>t>l>l>l>l>le>
+l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>z>l>l>l>l>l>l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>er>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>hl>l>l>l>l>le>l>l>l>l>er>l>l>l>l>p>l>l>r>l>z>l>l>l>l>er>l>l>l>l>l>l>l>l>l>l</l>.l>l>l>w>l>l>l>l>l>l>le>l>l>l>l>l>l>l>h>l>l>l>>l>l>l>l>le>n>l>l>l>l>le>l>l>l>l>le>l>l>l>l>l>l>l>.l>l>l>l>l>l>l>l</l>l>l>l>l>l>l>l>l>w>l>le |l>l>l>l>l>l>r>l>t>l>l>l>l>p>l>l>l>l>l>l>l>l</l>l>l>.l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>er>l>l>l>l>wi>l>le_l>l>l>l>l>l>l>l>s>l>l>l>l>l>in>l>t>l>l>l>l>l>l>l>l>>l>l>l>l>l>l>l>er>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>w>l>l>l>l>l>l>l>l>l>l>c>z>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>tl>f>l>l>l>wr>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>c>l>l>l>l>l>l>l>l>l>l>l>l>.l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l#l>p>l>l>l>l>t>l>l>l>z>l>l>l>l>l>l>l>l>l>l>l>l>c>l>l>l>l>l>l>l>l>nl>l>l>l>l>l>l>t>l>sl>l>l>l>z>l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>.l>l>l>l>in>l>l>l>l>r>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l
+l>l>l>l>er>l>l>l>l>l>l>tl>l>l>l>l>l>le>l>l>l>l>l>l>te>l>l>l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>
+l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>h_l>l>
+>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>z>l>le>l>n>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>h>l>l>in>l>l>l>l>l>l>l>l>w>l>l>l>l>l>l>z>l>l>l>l>l>c>l>l>l>l>tl>l>l>s>l>
+>l>l>l</l>l>l>l>l>l>l>l>l>l>tl>l>l>l>l>l>l>l>l>h>l>l>l>l>l>l>h>l>l>l>z>l>l>l>l>l>l>l>l>l>l>l>t>l>l>l>l>l>l>l>c>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>s>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>
+le>l>l>l>l>l>l>l>l>wl>l>l>er>l>l>l>t>l>l>l>l>l>l>z andl>l>l>l>l>l>l>l>l>
+l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>tl>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>w>l>l>gl>l>l>l>tl>hl>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>z>l>p>l>l>l>l>l>l>l>l>l>r>l>l>st>l>l>l>l>l>l>l>sle>l>l>t>l>l>l>l>w>l>
+>l>l>l>l>in>l>l>l>l>l>l>l>l>l>l>l>l>z>l>l>l>l>l>l>l</o>l>l>l>l>l>l>l>l>l>l>l>l>l>l>t-l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>lef>l>c>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>w>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l</l>l>l>le>wl>l>st>l>l>l>l>l>l>l>l>l>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>z>l>l>l>l>l>c>l>l>l>hl>l>l>l>l>l>l>l>l>l>l>l>l>l>l>n>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>.e>l>l>l>l>l>l</l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>le>l>l>l>l>l>l>l>zt>l>l>l>l>l>in>n>l>l>gl>l>l>l>l>l>l>l>l>l>l>l>l>l>le>l>el>l>l>l>l>f>l>l>l>l>l>l>l>l>l>c>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>le>l>l>l>l>l>l>w>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>h>l>l>l>l>l>l>l>l>l>l>l</l>l>wl>l>l>l>l>l>l>l>l>l>l>l>l>l>le>l>st>l>l>l>l>l>l>l>l>in>l>l>l>l>l>l>l>l>l>l>le>l>l>l>l>l>l>l>tl>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>t>l>l>l>l>l>l>l>gl>l>l>l>l>l>l>l>l>.l>l>l>l>l>le>l>l>l>l>l>c>l>l>l>l>l>h>l>l>l>l>l>l>gl>l>l>l>l>l>l>l>l>
+>l>l>l>l>l>l>l>l>le.l>l>t>l>l>l>tl>l>l>l>l>l>l>wl>l>l>l>l>l>l>l>l>l>l</l>l>l>l>l>l>l>l>l>l>l>l>l>l>s>l>l>l>l>l>l>l>l>l>l>l>c>l>l>in>l>l>l.l>l>le>l>gl>l>l>l>l>l>l>l#l>l>l>l>er>l>l>l>l>l>l>l>l>l>l>l>l>l>l>
+c>l>l>l>l>l>l>l>l>l>l>l>l>le>l>l>l>l>l>z>l>l>l>l>l>l>l>l>l>t>l>l>l>l>le>l>p>l>l>l>l>l>l>l>in>l>l>l>l>l>l>l>l>l>l>hl>l>l>l>l>.l>st>tl>l>l>l>l>l>l>l>l>l>l>p>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>c>l>s>l>l>l>w>l>l>l>l>l>l>l>l>l>l>l>l>z>l>l>l>l>l>l>l>l>l>tl>l>.in>l>l>s>l>l>l>l>l>l>l>l>l>l>l>l>l>hle>l>l>l>wl>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>sl>l>l>l>in>l>l>l>
+>l>l>l>l>tz>l>l>r>l>l>l>l>l>l>l>l>l>l>l>l>t>wl>l>l>l>l>l>l>n>l>l>l>l>l>l>l>l>l>l>l>z>l>s>fr>le>l>l>l>l>l>l>l>c>l>l>e.l>l>l>l>l>l>l>l>l>l>l>l>l>l>etw>l>l>l>z>l>l>le>l>l>l>l>l>tl>l>l>l>wl>l>l>l>l>l>l>l>l>l>l>l>l>l>l>wl>l>l>l>er>l>le>l>l>l>l>l>l>l>l>l>l>l>l>l>l>t>l>l>l>l>o>l>
+c>l>l>l>l>l>l>l>l>l>l>l>l>l>l>l>p>l>l>l>l>l>l>l>le>l>intel>l>l>l>l>l>l>l>in>l>l>r>l</l>l>l>in>l>l>l>l>c>tl>l>l>l>l>l>l>z>l>l>l>l>l>l>l>l>l>l>l>l>l>l>s>l>l>l>l>l>l>l>l>l>l>l>i>l>z>l>l>l>l>n>l>l>l>l>l>l>hl>l>l>l>l>l>le>tl>l>l>l>t">l>l>o>l>l>l>sel>l>l>l>in>l>l>l>l>l>l> s>l>l>l>in>l>l>>l>l>l>in>-l>l>er>l>n>l>l>l>l>l>l>
+l>le>l>l>l>sl>l>l>l>l>l>l>l>l>l>sl>l>l>t>in>l>l>l>sl>l>l>l>r>l>l>i>le>c>l>l>l>l>le>l>l>p>l>l>o>z>h>e>
+er>l>l>l>tl>l>l>l>l>in</l>dl>l>
+---
+Assessment (Claude, ~90M-token checkpoint, step ~22,100, eval loss ~4.37):
+Collapses immediately — within the first generated token — into a repeating "l>" symbol loop with a few scattered word-fragments (in, t, le, w, er, h) that never assemble into a sentence. No self-identification, no real English at all.
+Verdict: total failure. Along with math.txt and knowledge.txt, one of three samples that never produce a real sentence at all (vs. coding.txt and following-instructions.txt, which manage a sentence or two before collapsing). See training-journal.txt for the cross-category pattern.

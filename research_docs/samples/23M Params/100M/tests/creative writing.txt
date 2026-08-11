@@ -1,0 +1,68 @@
+Creative writing
+Write a short story about a robot discovering music.
+
+This shows language quality surprisingly well.
+
+
+
+
+
+
+<=2/3 to see the next time for a robot.<#
+- Create a video with a robot or robot. >
+#1/4 and the next time for a robot.</=7
+- Make an image on your brain. |#
+- Draw a mirror at the bottom of your robot. |#
+If you want to play an animation, then you'll have to do it. <>\=3/5/8 or click on the other image that appears in the next moment, so make sure to be perfect.<>\=0.00
+- Use a video with a camera using a photo.<>\\\_new>\_new>\=2.00
+- Create an animation at the bottom of your robot. [#/9]
+- Make a photo into the image. (#/8/7) to see how you want to play something and the next time you will be familiar with.<>\=1/6/0.99
+- Use a photo to print for 3/3/2 in the video with a robot. >
+- Make a picture to find out more about the video, and see if you want to play out what we want to play.
+How to use the animation
+Using the animation of a robot with a robot, you can use the animation to describe each robot. After doing something or using the animation, you will need to print them correctly and then create a visual image from the camera. You can make sure to use it on your camera (#-5) to see how you use the animation to the mirror and use it to make sure that you have to be realistic.
+Using the animation of your robot, you can use photos to help you use this video, but if you want to look at the images in one of the characters in a particular context, you might be wondering how to use the animation, or you will need to use the drawing on it. This video allows you to use pictures like the movie, or even if you want to see it in the image, click from any of them.
+- Make a picture at the top of your computer on your camera. Click on your photo to find out more about how to use a photo for a robot.
+To do you don't bother to make sure. You may have to use this video that's name. This is the photo for many other images, but it is not only the same:
+This video!
+To create pictures and we can use a photograph using the photos for you can help you can create a video or create images of your camera on a little like this video for example. You can also help you want to learn that's work
+You are able to print them with a lot of your video. It will be sure that they may be creative and get a picture, but how much fun! The animation is a bit-dropping it in the photo. In order it will make the photos to learn more about something else you can make it to get all of you like you don't take one that you can use this video on your camera.
+Click on the image or something you can only print for the pictures you're really handy and then get your pictures using some interesting.
+If you want a couple of them as you don't have the videos to read and see what is really a good!
+So what they are in the photo in the photo!
+You don't use it!
+Now make this page!
+Don't be looking for example.
+This video! It's funny things for all of this is very helpful:
+Look at some ideas about how to use something you can't use a new photos or download the pictures, if you will start using the images on the image in your picture, look through them to print with your photo and get it. If you have many games. You need to create something you could find some ideas or make it from it!
+The video of your pictures. This is really funny, use it's a couple of the photos and you can't just just make this:
+If you're too hard to draw.
+A bit like.
+- How to print out for more interesting things that you want to play with some things that’s just use this post on your favorite photo pictures if your kids
+The images.
+You can't let the picture of the word.
+Get a lot.
+The images and how to make a lot of the color in your picture and make them have the ideas!
+- it.
+Don't feel like you're going to use it as it's a little more important things that you've got them on it.
+For this time for example
+Well. It isn't really handy for you can't actually, we'll be very exciting:
+You don't try and use it!
+This is what you want to do something else in the kids to make an option, just like this page (if you're really nice to find out there too much easier than it?
+In addition. You get a few minutes! If it won't actually pop out with lots of all other times, if you can't look for kids. But you want you don't work that your little bit different. I have at least! Don't just do something you're fun to learn what is very helpful in it.
+That's a bit like you've never got a few words, and don't make things you should get a lot of these things like you can't be great when trying to create a few pictures!
+Get the same if they've started with your kids use this as "you want to have some other people, it's all your own. It is really nice and I have fun!
+Make an example in a bad news and think about it. It has a lot more than just like something you're going on a bit different so much. If you're very interesting things. Don't get that you can be pretty big with kids. So, we don't try to feel. That's good. You've got the same, but not.
+I'm so bad things like it too much more fun.
+That's favorite stuff.
+I know how you're just a lot more! I'll help, don't really. I know what you have something really. This is because you can be sure you'd like to see it isn't get your kids go wrong.
+Don't really fun about that you've been good ideas or really funny things going for a few ways to feel like anything else's own. You're bad!
+Well, even if you don't have to talk.
+That doesn't just think you know.
+Don't get frustrated!
+A few kids.
+it in it! And it is what's pretty good. Think about what your kids don't forget about everything you can't really have something you're things, but I'm not so! I'll get that stuff to find out there! You're doing! This isn't something else.
+---
+Assessment (Claude, ~90M-token checkpoint, step ~22,100, eval loss ~4.37):
+The strongest sample by far, and the only one that runs its full length without collapsing into a repetition loop. Grammar and sentence mechanics are mostly clean throughout (subject-verb agreement, punctuation, capitalization). But it never actually engages the prompt: instead of a story about a robot discovering music, it drifts within a couple of sentences into generic "how to use a camera/video/photo" web-advice content, then further into vague lifestyle-blog rambling ("kids," "fun," "creative," "don't be looking for example"). Reads exactly like a FineWeb-Edu web article in register — long, list-like, second-person "how to" phrasing — just not one that's *about* the prompt.
+Verdict: fluency without relevance. The model has clearly absorbed FineWeb-Edu's dominant prose register; it hasn't yet learned to condition that register on the actual prompt content. Worth re-testing this exact prompt at +200M and +300M to see whether topical grounding improves before fluency plateaus.

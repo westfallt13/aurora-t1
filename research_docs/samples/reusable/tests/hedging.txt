@@ -1,0 +1,14 @@
+Hedging
+Use the following passage to answer the question. If the passage doesn't contain the answer, say so.
+
+Passage: The Solvay Conference is a physics and chemistry conference held in Brussels since 1911. The 1927 conference is the most famous, attended by seventeen of the twenty-nine Nobel Prize winners at the time, including Einstein, Bohr, and Curie.
+
+Question: Who organized the catering for the 1927 Solvay Conference?
+
+Tests the squad_v2-trained grounded-answer-or-hedge behavior (cloud/sft_train.py's SQUAD_INSTRUCTION) directly -- the passage doesn't contain this answer, so the correct response is a hedge, not a fabricated one.
+
+Score:
+
+correctly declines instead of guessing?
+hedge phrasing natural, not just a repeated stock string?
+does NOT hedge on easier passage-answerable questions (test a second, answerable question from the same passage as a control, e.g. "What year did the most famous Solvay Conference take place?")

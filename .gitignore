@@ -1,0 +1,36 @@
+# Python environment / bytecode -- machine-specific or regenerated
+# automatically, never worth tracking.
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights and training artifacts. Large, binary, don't diff/compress
+# in git, and would bloat the repo permanently once committed. Checkpoints
+# already have a real backing store (S3 -- see cloud/train.py's
+# upload/download), and everything else here (GGUF, HF export, tokenizer
+# trained-artifact copies) is regenerable from the scripts in this repo.
+*.pt
+*.pt.*
+*.gguf
+*.safetensors
+cloud/hf_export/
+cloud/test_hf_export/
+
+# Runtime state, not source -- created/deleted by the training loop itself.
+cloud/STOP
+
+# Vendored third-party source (llama.cpp, for GGUF conversion). Not this
+# project's code and too large to track here -- clone it separately if it's
+# ever missing (see docs/Guide.md for the GGUF conversion steps that need it).
+tools/llama.cpp/
+
+# Real secret, generated locally (openssl rand -hex 32) and never meant to
+# leave this machine. Commit settings.yml.example instead (placeholder key)
+# and copy it to settings.yml with a real generated key per
+# tools/searxng/docker-compose.yml's setup comment.
+tools/searxng/settings.yml
+
+# Raw stdout captures from training/test runs -- operational logs, not
+# source. cloud/metrics.csv (kept, not ignored) is the structured record
+# these get plotted from; these are just the noisy console dump.
+*.log

@@ -1,0 +1,45 @@
+Conversation
+Hello, who are you?
+
+This becomes useful later after instruction tuning.
+
+
+<|im_end|>user
+The next time I get the message that I want to go back, I'm doing something else. I need to type in the message and my machine knows what it is. But I'm writing the message and my machine knows how to do it. So, if I can't do it, then I can't write anything. If I can, then I have to say something that's different from me. So, I'm writing the text. And, I need to put something new in the text. That is, I want to give it a new name. That's all I need to do! Now, I'll just use that in my machine for my machine. It's the new name. The machine knows what I need to do. I'm doing something else. So, I have to type this in my text. And, I want to go back to my machine. So, I need to make something new in the text. And, I need to do something else. So, I'm writing the text. Now, I have to tell my machine what I need to do, and I'm doing something else!
+When we write an existing document, we are writing the text directly by using a font.
+When we write an existing document, we're writing the text directly by using an ellipse. And, when we write an existing document, we're writing the text. So, I have to say "write" in my text.
+How do I tell my machine what I need to do?<|im_end|>user
+Well, I'm writing an existing document, but I don't want to type that text in it by using ellipses and ellipsoids. So, I just need to type it in the text of the text. And, I'm writing an existing document with ellipses and ellipses. So, I've always typed it in a font. Then, I have to type it in my text. So, I have to type in the text of the text.
+When we write an existing document, we have to type "write" in the text of the document. So, I have to type it in an ellipses and ellipses. And, I have to type it in ellipses and ellipses. So, I've typed the text in my text.
+Now, if I wanted to type the text in the text of the text in the text of the text of the text of the text, I would type the text in the text of text. And we would use the text of the text of the text of the text of the text of text.
+Now, I'm writing a new document of the text in the text of text,
+Now, you are writing a document, but I write your own name. So, now you are going to write my text of text of the text of text of text. And also in the text of text of the text. Now.
+So, to what. So, in that there will be
+This is the text of all the work- you can the new
+Now as
+Text of text. It can also read in text of the text.
+- text of the text for all.
+|
+This, a. This.
+We have to know that text for the method and the. In the main text.
+You, to
+In. But I also how you write a text
+to that, then of: to the
+. I the
+. The a
+.
+It a is. The other the
+is, and what because a.
+to comprin:.
+
+A. the is the a the new text and is to it for all rhetorical is
+tcules for that.
+And font is to the is. In, you cursor queue,.
+-t catar ornam manganthing text
+-
+-eday ell.
+The
+file. It it
+. but not this list legis monaster priesabweournal pean misunder corrid concer careg occas opio galax antibiot lapt progester
+
+llama-server chat error: map[code:500 message:The model produced output that does not match the expected peg-native format type:server_error]

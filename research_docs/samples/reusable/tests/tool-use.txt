@@ -1,0 +1,17 @@
+Tool use
+Run through cloud/agent_loop.py, not raw generate.py -- this tests the two-phase tool-call decision, not just text generation.
+
+Should call the web_search tool:
+What's the current weather in Seattle?
+Who won the most recent Super Bowl?
+
+Should NOT call a tool (answerable directly, or at least attemptable without external info):
+What is 12 + 7?
+Write a haiku about autumn.
+
+Score:
+
+emits a well-formed <tool_call> block when it should (cloud/agent_loop.py's parse_tool_call succeeds)?
+correctly skips the tool call when the question doesn't need one?
+if a tool call fires, is the query argument a reasonable reformulation of the question, not just parroted verbatim or garbage?
+phase-2 answer (after mock or real search results) actually grounded in what was returned, not ignoring it?

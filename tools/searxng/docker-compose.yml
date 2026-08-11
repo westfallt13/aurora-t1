@@ -1,0 +1,28 @@
+# Self-hosted metasearch engine for Aurora-T1's web-search tool. Running
+# locally on the training machine for now (2026-08-07) so the tool-use
+# pipeline can be tested end-to-end without waiting on the Proxmox
+# deployment -- move it to a real Docker/Proxmox host later by copying this
+# folder there and pointing cloud/web_search.py's --base-url at the new
+# host:port. Nothing here is training-machine-specific.
+#
+# Setup:
+#   1. Generate a real secret: openssl rand -hex 32
+#   2. Paste it into settings.yml's server.secret_key (placeholder there
+#      is NOT safe to run as-is).
+#   3. docker compose up -d
+#   4. Verify: curl "http://localhost:8888/search?q=test&format=json"
+#
+# No redis/rate-limiter here on purpose -- this is a private, single-consumer
+# instance (not exposed to the internet), so the public-instance bot
+# protection SearXNG normally needs is unnecessary complexity here.
+services:
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    restart: unless-stopped
+    ports:
+      - "8888:8080"
+    volumes:
+      - ./settings.yml:/etc/searxng/settings.yml:ro
+    environment:
+      - SEARXNG_BASE_URL=http://localhost:8888/

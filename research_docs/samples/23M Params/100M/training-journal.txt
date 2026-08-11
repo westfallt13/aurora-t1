@@ -1,0 +1,23 @@
+Aurora seems to understand the prompt but fails to have a coherent dialogue and starts sending random numbers/symbols, which seem to be a recurring issue throughout the entire project.
+
+---
+Expanded notes (Claude, ~90M-token checkpoint, step ~22,100/50,000, eval loss ~4.37, ppl ~79):
+
+RUN
+Tokens: ~90M under the current `local-main` run (see cloud/metrics.csv; corrected from an earlier ~100M estimate — training is continuing straight through to a 300M-token checkpoint rather than pausing at intermediate waypoints).
+Model: SimpleLLM, GPT-2-equivalent decoder-only transformer. hidden_size=384, 6 layers, 6 heads, intermediate_size=1536, seq_length=512, vocab=32,000 (FineWeb-Edu BPE tokenizer). 17,501,696 parameters.
+Data: FineWeb-Edu (sample-10BT), streamed, filtered to int_score >= 3.
+Loss: train ~4.4-4.5, eval ~4.37. See training_progress.png — both curves still descending, no plateau yet.
+Exported to GGUF (f16), tested via Ollama (`aurora-t1-scratch`, built from cloud/Modelfile — note: this is not the same Modelfile used for day-to-day testing in Ollama, so the decoding-settings note below applies to that build specifically, not necessarily to what's actually being observed elsewhere).
+
+WHERE THE "RANDOM NUMBERS/SYMBOLS" ISSUE SHOWS UP
+Going through samples/100M/tests/*.txt category by category, the collapse-into-symbols problem splits cleanly by prompt type:
+
+- Open, prose-style prompts (creative writing, grammar) stay fluent for their whole length — no symbol collapse. Sentence-level grammar, spelling, punctuation are solid. Content drifts off-topic (creative writing wanders from "robot discovers music" into generic photo/video web-advice content) or is semantically confused (grammar's snowstorm/tornado mixup), but it reads like real English the whole way through — specifically, it reads like a FineWeb-Edu web article: long-form, second-person, "how to" register, regardless of what the prompt asked for.
+- Prompts phrased as a direct question or a structured-output instruction (math, knowledge, following-instructions, conversation, and — after ~90 tokens — coding) are exactly where the collapse happens. Math ("=" repeated) and conversation ("l>" repeated) collapse almost immediately with no real content at all. Coding and following-instructions manage a sentence or two of vague, ungrounded prose before locking into a loop.
+
+Working hypothesis: the model has picked up FineWeb-Edu's dominant long-form prose register reasonably well, but question/instruction-shaped prompts push it into territory it hasn't seen much of (FineWeb-Edu is mostly articles, not Q&A or instruction-following pairs) — once it's out of its comfort zone, the sampler falls into a low-entropy repetition trap. This is most likely a training-maturity issue rather than a decoding-settings one — not chasing the Modelfile angle further for now.
+
+OPEN QUESTIONS FOR 300M
+- Does the collapse rate on question/instruction prompts drop with more pretraining? Re-test the same seven reusable prompts at 300M to track whether the prose-vs-collapse split narrows, whether creative writing starts actually engaging the prompt topic, and whether grammar.txt gets closer to three full paragraphs instead of stopping after two sentences.
+- grammar.txt stopped short rather than collapsing or finishing at length — the only sample that behaved that way. Worth checking whether that was an early EOS token and whether it reproduces.

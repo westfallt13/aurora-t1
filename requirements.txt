@@ -1,0 +1,13 @@
+# torch is installed separately (see setup notes) because it needs the CUDA-specific index URL
+numpy
+transformers
+datasets
+tokenizers
+wandb
+tqdm
+matplotlib
+flask
+onnx
+boto3
+psutil
+gguf

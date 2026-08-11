@@ -1,0 +1,4 @@
+FROM ./aurora-t1.gguf
+PARAMETER stop "</s>"
+PARAMETER temperature 0.8
+PARAMETER repeat_penalty 1.3

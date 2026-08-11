@@ -1,0 +1,81 @@
+Coding
+
+Even if Aurora isn't trained for coding yet:
+
+Write a Python function that reverses a string.
+
+
+
+A function that reverses a string.
+A function that reverses a string.
+If you need to see the code, the above code can be accessed.
+The Python Tutorial is available on GitHub. The following Python Tutorial are also available.
+You can download a Python interpreter, or use one of the languages listed below:
+- Python 3.6:
+- Python 7.3:
+- Python 8.1:
+- Python 9.2:
+- Python 9.3:
+- Python 10.1:
+- Python 11.1:
+- Python 12.2:
+- Python 14.0:
+- Python 15.1:
+- Python 16.1:
+- Python 16.2:
+- Python 16.3:
+- Python 16.4:
+- Python 17.3:
+- Python 18.0:
+- Python 19.1:
+- Python 20.0:
+- Python 3.7:
+- Python 8.1:
+- Python 22.0:
+- Python 29.0:
+- Python 2.2:
+- Python 3.0:
+- Python 3.4:
+- Python 9.5:
+- Python 10.6:
+- Python 6.0:
+- Python 7.1:
+- Python 8.3:
+- Python 8.4:
+- Python 8.5:
+- Python 9.6:
+- Python 9.7:
+- Python 8.8:
+- Python 9.9:
+- Python 8.10:
+- Python 12.2:
+- Python 12.3:
+- Python 12.4:
+- Python 13.1:
+- Python 14.5:
+- Python 16.3:
+- Python 14.4:
+- Python 15.0:
+- Python 12.6:
+- Python 15.8:
+- Python 15.7:
+- Python 15.8:
+- Python 16.9:
+- Python 16.1:
+- Python 16.2:
+- Python 16.3:
+- Python 16.4:
+- Python 16.5:
+- Python 17.6:
+- Python 18.1:
+- Python 18.10:
+- Python 18.1:
+-
+- Python 2:
+- "What does not know about the following statements in the following the list, which is known in the same
+-
+The following the above, it doesn not in a certain statements of which may in the above
+(- is not in the above statement of an: but are not at a given statement?
+- It also has been a way of a
+-
+- in this.

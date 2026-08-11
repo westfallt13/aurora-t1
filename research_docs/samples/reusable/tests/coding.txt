@@ -1,0 +1,5 @@
+Coding
+
+Even if Aurora isn't trained for coding yet:
+
+Write a Python function that reverses a string.

@@ -1,0 +1,25 @@
+Grammar
+Write three paragraphs about thunderstorms.
+
+Look for:
+
+spelling
+punctuation
+repetition
+sentence flow
+
+Score:
+
+1-10
+
+
+
+
+
+Write your question for questions about thunderstorm.<||0 to ||> |
+Write an answer: "In a storm, you might think that the thunderstorm is an example of lightning storms."<
+In a snowstorm, you can see some of the most active tornadoes in your yard.
+---
+Assessment (Claude, ~90M-token checkpoint, step ~22,100, eval loss ~4.37):
+Score: 6/10. Spelling and punctuation are clean throughout — correct capitalization, correct sentence-ending periods, correctly-paired quotation marks. Sentence flow within each sentence is grammatical. But it's nowhere near "three paragraphs": it produces two short sentences and stops (no repetition-loop collapse — it just ends, possibly an early EOS). Content is semantically confused rather than repetitive: "the thunderstorm is an example of lightning storms" is circular, and "you can see some of the most active tornadoes in your yard" during a *snowstorm* mixes up unrelated weather concepts.
+Verdict: the best-formed mechanics in the whole test set (helped by never entering a repetition loop), but badly underlength relative to the prompt and not meaningfully "about" thunderstorms beyond the first clause. Worth checking generation length/stop settings — this is the only sample that stopped short rather than either finishing naturally or collapsing.

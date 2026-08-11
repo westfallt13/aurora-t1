@@ -1,0 +1,84 @@
+===== math =====
+PROMPT: What is 17 x 24?
+--- BASE (pretrained only) ---
+How do you make a game of chess that uses the following 3 strategies? How many different pieces are needed to play this game?
+Can you use an 8 by 9 grid from B-Maze, or write the same answer for all players on this grid with 6 squares of 16-inch paper and 2 rows of 11-byte dividers on one side?
+If two numbers aren’t equal, how can you add 7-8 by 8-inputting your solution to their puzzle?
+
+--- SFT (no_robots, 3 epochs) ---
+17.7 x 18.8 
+
+
+===== grammar =====
+PROMPT: Write three paragraphs about thunderstorms.
+--- BASE (pretrained only) ---
+How do you make a thunderstorm sound?
+First, think of thunder storms as small pieces that can easily be used in an instruction (such as the “Cause & Effect” question). This is because when we talk about thunderstorms, they are often referred to as thunderbolts. Some examples would include heavy rain, heavy clouds, or strong winds such as those from thunderstorms and hail. All these types of weather patterns are called lightning waves… Read More
+As your students prepare for their next class session, take some time each day to plan out different ways to use this activity. In today’s lesson plan, students may need to choose between learning the vocabulary words, learning how to identify lightning colors, studying what it means to say thunder, and using flashcards. Using flashcards might not work well at all!
+Instructors could also create individual flashcards by adding pictures and/or writing questions that students will share with them. If there are more than one teacher
+
+--- SFT (no_robots, 3 epochs) ---
+Fires that generate intense thunderstorms are called tornado-related disasters, and the names of these conditions vary. It's important to remember that a few basic rules for dealing with weather disturbances are to have your own emergency kit in place for all parties involved.
+1. Don't touch or burn any metal utensils; do not use chemicals or alcohol without permission from the owner.
+2. Never leave a trailer unattended, especially when you're under heavy rain.
+3. Take shelter at night until there is no direct danger from lightning.
+
+
+===== knowledge =====
+PROMPT: Why is the sky blue?
+--- BASE (pretrained only) ---
+How do you make a star in the night sky visible to all, right now? Can anyone spot your light that's in front of you? Or does it look bright when you shine it off? If not, this will be an easier method than getting any other direction. As long as your eyes are clear of stars and constellations, they won't get too faint or blocked out by them. You can also try looking at the sky for signs of stars such as those shown on this page or above.
+
+--- SFT (no_robots, 3 epochs) ---
+The sky has a very thin atmosphere, and most stars are visible at night. This makes it difficult for light to travel in an area that's too dark. When this happens, air becomes darker when you move from the Earth or away from your home.
+
+
+===== coding =====
+PROMPT: Write a Python function that reverses a string.
+--- BASE (pretrained only) ---
+To return to the input file, click on ‘Add_Input()’. If you want to return it as an array in your program, type this:
+This is what I’m going to show when we add an instruction for our variable variable variable named “Hello.”
+I can give you a list of instructions here if you aren’t sure how to execute them and so please do not worry about how they work (you should always check with me to make sure your options are correct). Here is one example. When I create an application in my browser, I use a library that contains hundreds of lines containing each line. Using this library to set my code as strings, I select the desired programming language from the following list as a list. The string will contain all types of characters as well. Then again, I repeat these steps until it turns into the new function. You can see some examples.
+<p>My project has been created in PHP 7
+Here are the
+
+--- SFT (no_robots, 3 epochs) ---
+print a <string(char * });
+print i, char * };
+
+
+
+===== conversation =====
+PROMPT: Hello, who are you?
+--- BASE (pretrained only) ---
+I am sure we will have a problem that I will be working on right now. Can anyone please help me find this in my notes and answers section?
+
+--- SFT (no_robots, 3 epochs) ---
+Hi. My name is Debbie McIntosh and I'm writing a book called "Boy's Guide to the American South" that focuses on the history of this region from its beginnings to present day. The story begins with an incident in 1862 when Confederate forces invaded Confederate cities across North Carolina in order to take control over the city. This was one of many events leading up to the Civil War, including the Battle of Bull Run which ended the war against the United States. As of today, we know that both sides were fighting for their land during this time period. It became known as the Brown Truce or Black-Teddy War. When it took place, Union soldiers attacked Southern troops at Gettysburg, but they retreated after losing a few minutes before finally surrendering. 
+
+
+===== following_instructions =====
+PROMPT: Write five bullet points explaining photosynthesis.
+--- BASE (pretrained only) ---
+1. What happens to an organism if it is not able to produce food? If the organisms cannot eat, why does their reproduction stop and they will die.
+2. Why are animals called "fungi"? When did evolution take place? Why do you think that would happen in a future era of global climate change? Did life on Earth ever evolve as we know it today?
+
+--- SFT (no_robots, 3 epochs) ---
+1. Chlorophyll is an energy source that plants use to feed their cells. If you take a whole leaf of chlorophyll in the morning and make it into your water, you’ll see how much more energy the plant takes from photosynthesis than what leaves are doing on Earth. Without sunlight or photosynthesis, it would take at least ten hours for oxygen to reach all the cells of the plant without photosynthesis happening before photosynthesis can occur! 
+2. When sugar becomes glucose, which gives your plant energy, they need to work harder to convert it back into usable sugars. The process by which carbohydrates get converted into sugars has been studied long-since but as scientists have shown since the beginning of humanity—in many parts of our world—it's not a good idea to just go vegan. But this isn't always possible because plants rely heavily on simple carbohydrates like grains and fruits for fuel, especially if there aren't enough. Plants also eat fats that break down quickly when eaten through burning fossil fuels such as
+
+
+===== creative_writing =====
+PROMPT: Write a short story about a robot discovering music.
+--- BASE (pretrained only) ---
+How do you make the sound of the sounds?
+In class, talk about how different words are used to represent parts in an audio file. Make sure that each part is connected with one word or phrase before making it clear why and what they mean.
+1-3 of 6
+Make sure your students have at least one lesson on listening to text using the same format as in class. Write a short description of the story (with the correct answer) and then discuss its implications for their lives and work. Have them write sentences from their own ideas so you don’t lose sight of the whole story. When writing your stories, include questions such as: What did I learn about learning English through listening to music? Why am I interested in hearing more vocabulary in my classes? How does reading fluency change my skills?
+2-4 of 6
+Tell the children that all the people who love singing enjoy listening to songs that are played loudly by musicians. If you can see your teacher
+
+--- SFT (no_robots, 3 epochs) ---
+I am excited to learn that this robot has discovered the musical genre, the "Musical Style." Music is used in different forms and styles of music. The most common types are classic (like jazz) or folk-style (as opposed to classical). I have recently completed an assignment on playing softballs at an American high school. I'll be able to play softball with them before getting into some of these instruments! 
+
+
